@@ -1,0 +1,11 @@
+exports[`CO 1`] = `"[{\"title\":\"The Molar Mass of CO is 28.010 g/mol\",\"subtitle\":\"Press Enter to Copy\",\"arg\":\"28.010\"}]"`;
+
+exports[`CO2 1`] = `"[{\"title\":\"The Molar Mass of CO2 is 44.009 g/mol\",\"subtitle\":\"Press Enter to Copy\",\"arg\":\"44.009\"}]"`;
+
+exports[`H2O 1`] = `"[{\"title\":\"The Molar Mass of H2O is 18.015 g/mol\",\"subtitle\":\"Press Enter to Copy\",\"arg\":\"18.015\"}]"`;
+
+exports[`H2O2 1`] = `"[{\"title\":\"The Molar Mass of H2O2 is 34.015 g/mol\",\"subtitle\":\"Press Enter to Copy\",\"arg\":\"34.015\"}]"`;
+
+exports[`NaCl 1`] = `"[{\"title\":\"The Molar Mass of NaCl is 58.441 g/mol\",\"subtitle\":\"Press Enter to Copy\",\"arg\":\"58.441\"}]"`;
+
+exports[`NaOH 1`] = `"[{\"title\":\"The Molar Mass of NaOH is 39.997 g/mol\",\"subtitle\":\"Press Enter to Copy\",\"arg\":\"39.997\"}]"`;

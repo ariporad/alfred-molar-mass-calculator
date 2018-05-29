@@ -1,0 +1,39 @@
+{
+  "name": "alfred-molar-mass-calculator",
+  "version": "1.0.0",
+  "description": "Automatically compute the molar masses of molecules",
+  "license": "MIT",
+  "repository": "ariporad/alfred-molar-mass-calculator",
+  "author": {
+    "name": "Ari Porad",
+    "email": "ari@ariporad.com",
+    "url": "ariporad.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo --fix && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.18.0",
+    "prettier": "^1.13.0",
+    "xo": "^0.17.0"
+  }
+}
