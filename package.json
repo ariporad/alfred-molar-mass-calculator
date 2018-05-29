@@ -1,6 +1,6 @@
 {
   "name": "alfred-molar-mass-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically compute the molar masses of molecules",
   "license": "MIT",
   "repository": "ariporad/alfred-molar-mass-calculator",
